@@ -1,0 +1,1 @@
+<annotations><filename>Volvo00000002.JPEG</filename><folder>images</folder><size><width>1196</width><height>900</height><depth>3</depth></size><object><name>bilar</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>190.00000000000006</xmin><ymin>263.0</ymin><xmax>1086.0</xmax><ymax>618.0</ymax></bndbox></object></annotations>

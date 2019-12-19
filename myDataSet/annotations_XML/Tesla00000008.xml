@@ -1,0 +1,1 @@
+<annotations><filename>Tesla00000008.JPEG</filename><folder>images</folder><size><width>1100</width><height>826</height><depth>3</depth></size><object><name>bilar</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>65.0</xmin><ymin>167.0</ymin><xmax>1014.0</xmax><ymax>717.0</ymax></bndbox></object></annotations>

@@ -1,0 +1,1 @@
+<annotations><filename>Mercedes00000198.JPEG</filename><folder>images</folder><size><width>2318</width><height>1175</height><depth>3</depth></size><object><name>bilar</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>69.00000000000011</xmin><ymin>33.0</ymin><xmax>1655.0</xmax><ymax>930.0</ymax></bndbox></object></annotations>
